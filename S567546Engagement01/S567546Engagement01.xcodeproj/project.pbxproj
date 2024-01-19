@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E1BB7C632B5B143F0038149A /* S567546Enagagement01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = S567546Enagagement01.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E1BB7C5C2B5B12A20038149A = {
+			isa = PBXGroup;
+			children = (
+				E1BB7C632B5B143F0038149A /* S567546Enagagement01.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E1BB7C5D2B5B12A20038149A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1520;
+			};
+			buildConfigurationList = E1BB7C602B5B12A20038149A /* Build configuration list for PBXProject "S567546Engagement01" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1BB7C5C2B5B12A20038149A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E1BB7C612B5B12A20038149A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E1BB7C622B5B12A20038149A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1BB7C602B5B12A20038149A /* Build configuration list for PBXProject "S567546Engagement01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1BB7C612B5B12A20038149A /* Debug */,
+				E1BB7C622B5B12A20038149A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1BB7C5D2B5B12A20038149A /* Project object */;
+}
